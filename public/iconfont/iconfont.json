@@ -1,0 +1,275 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "81493",
+      "name": "搜索",
+      "font_class": "search",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "520508",
+      "name": "女",
+      "font_class": "nv",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "920124",
+      "name": "男",
+      "font_class": "nan",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "1631185",
+      "name": "播放暂停",
+      "font_class": "bofang",
+      "unicode": "e501",
+      "unicode_decimal": 58625
+    },
+    {
+      "icon_id": "3060566",
+      "name": "网易云音乐",
+      "font_class": "wangyiyunyinle",
+      "unicode": "e7ee",
+      "unicode_decimal": 59374
+    },
+    {
+      "icon_id": "3082979",
+      "name": "网易云",
+      "font_class": "wangyiyun",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "3101319",
+      "name": "收 藏",
+      "font_class": "shoucang1",
+      "unicode": "e502",
+      "unicode_decimal": 58626
+    },
+    {
+      "icon_id": "3259637",
+      "name": "SQ",
+      "font_class": "sq",
+      "unicode": "e503",
+      "unicode_decimal": 58627
+    },
+    {
+      "icon_id": "3281711",
+      "name": "网易云",
+      "font_class": "wangyiyun1",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "3402740",
+      "name": "已登录",
+      "font_class": "yidenglu",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "4099772",
+      "name": "播放 暂停",
+      "font_class": "bofangzanting",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "4148938",
+      "name": "播放暂停",
+      "font_class": "bofangzanting1",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "4185966",
+      "name": "笑脸",
+      "font_class": "xiaolian",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "4816428",
+      "name": "收 藏",
+      "font_class": "shoucang",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "4956726",
+      "name": "网易云",
+      "font_class": "wangyiyun2",
+      "unicode": "e6d0",
+      "unicode_decimal": 59088
+    },
+    {
+      "icon_id": "5619016",
+      "name": "网易云音乐",
+      "font_class": "wangyiyunyinle1",
+      "unicode": "e504",
+      "unicode_decimal": 58628
+    },
+    {
+      "icon_id": "6126753",
+      "name": "网易云音乐",
+      "font_class": "wangyiyunyinle2",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "6777467",
+      "name": "我 的",
+      "font_class": "wodedangxuan",
+      "unicode": "e50d",
+      "unicode_decimal": 58637
+    },
+    {
+      "icon_id": "6791335",
+      "name": "首页-选中",
+      "font_class": "home",
+      "unicode": "e505",
+      "unicode_decimal": 58629
+    },
+    {
+      "icon_id": "7006653",
+      "name": "加号",
+      "font_class": "hao",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "7479002",
+      "name": "网易云音乐",
+      "font_class": "wangyiyunyinle3",
+      "unicode": "e506",
+      "unicode_decimal": 58630
+    },
+    {
+      "icon_id": "8033071",
+      "name": "网易云音乐",
+      "font_class": "wangyiyunyinle4",
+      "unicode": "ea4b",
+      "unicode_decimal": 59979
+    },
+    {
+      "icon_id": "8289295",
+      "name": "登录",
+      "font_class": "denglu",
+      "unicode": "e507",
+      "unicode_decimal": 58631
+    },
+    {
+      "icon_id": "8602987",
+      "name": "删 除 (1)",
+      "font_class": "shanchu",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "8709281",
+      "name": "网易云",
+      "font_class": "wangyiyun3",
+      "unicode": "e508",
+      "unicode_decimal": 58632
+    },
+    {
+      "icon_id": "8886465",
+      "name": "关  闭 (7)-01",
+      "font_class": "guanbi-",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "9109633",
+      "name": "耳机",
+      "font_class": "earphones",
+      "unicode": "e6a4",
+      "unicode_decimal": 59044
+    },
+    {
+      "icon_id": "9219182",
+      "name": "返 回",
+      "font_class": "fanhui",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "9274512",
+      "name": "返 回",
+      "font_class": "fanhui1",
+      "unicode": "e529",
+      "unicode_decimal": 58665
+    },
+    {
+      "icon_id": "9851329",
+      "name": "点赞",
+      "font_class": "zan",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "9880099",
+      "name": "向下",
+      "font_class": "down2",
+      "unicode": "e6aa",
+      "unicode_decimal": 59050
+    },
+    {
+      "icon_id": "10208849",
+      "name": "播放-暂停",
+      "font_class": "bofang-zanting",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "10338263",
+      "name": "向下",
+      "font_class": "down21",
+      "unicode": "e509",
+      "unicode_decimal": 58633
+    },
+    {
+      "icon_id": "10490657",
+      "name": "网易云",
+      "font_class": "wangyiyun4",
+      "unicode": "e50a",
+      "unicode_decimal": 58634
+    },
+    {
+      "icon_id": "10490678",
+      "name": "网易云",
+      "font_class": "wangyiyun5",
+      "unicode": "e50b",
+      "unicode_decimal": 58635
+    },
+    {
+      "icon_id": "10540704",
+      "name": "网易云音乐",
+      "font_class": "ruanjian-",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "10929519",
+      "name": "网易云音乐",
+      "font_class": "wangyiyunyinle5",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "10931672",
+      "name": "网易云音乐",
+      "font_class": "music163",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    }
+  ]
+}

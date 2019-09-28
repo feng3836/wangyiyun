@@ -1,0 +1,147 @@
+import {
+    Home,
+    Collection,
+    Mine,
+    Login,
+    Register,
+    SongListDetail,
+    SongPlayDetail
+} from "@pages";
+
+import {
+    Recommend,
+    HotSong,
+    Search
+} from "@components";
+
+
+export const layoutRoutes = [
+    {
+        key:"/home",
+        path:"/home",
+        name:"首页",
+        icon:"\ue505",
+        component:Home,
+        exact:true,
+        meta:{
+            requireAuth:false,
+            flag:true
+        },
+        children:[
+            {
+                key:"/home/recommend",
+                path:"/home/recommend",
+                name:"推荐音乐",
+                icon:"",
+                component:Recommend,
+                exact:true,
+                meta:{
+                    requireAuth:false,
+                    flag:true
+                }
+            },
+            {
+                key:"/home/hotSong",
+                path:"/home/hotSong",
+                name:"热歌榜",
+                icon:"",
+                component:HotSong,
+                exact:true,
+                meta:{
+                    requireAuth:false,
+                    flag:true
+                }
+            },
+            {
+                key:"/home/search",
+                path:"/home/search",
+                name:"搜索",
+                icon:"",
+                component:Search,
+                exact:true,
+                meta:{
+                    requireAuth:false,
+                    flag:true
+                }
+            }
+        ]
+    },
+    {
+        key:"/collection",
+        path:"/collection",
+        name:"收藏",
+        icon:"\ue502",
+        component:Collection,
+        exact:true,
+        meta:{
+            requireAuth:true,
+            flag:true
+        }
+    },
+    {
+        key:"/mine",
+        path:"/mine",
+        name:"我的",
+        icon:"\ue50d",
+        component:Mine,
+        exact:true,
+        meta:{
+            requireAuth:true,
+            flag:true
+        }
+    }
+];
+
+export const noLayoutRoutes = [
+    {
+        key:"/login",
+        path:"/login",
+        name:"登录",
+        icon:"",
+        component:Login,
+        exact:true,
+        meta:{
+            requireAuth:false,
+            flag:false
+        }
+    },
+    {
+        key:"/register",
+        path:"/register",
+        name:"注册",
+        icon:"",
+        component:Register,
+        exact:true,
+        meta:{
+            requireAuth:false,
+            flag:false
+        }
+    },
+    {
+        key:"/songListDetail",
+        path:"/songListDetail",
+        name:"歌单",
+        icon:"",
+        component:SongListDetail,
+        exact:true,
+        meta:{
+            requireAuth:false,
+            flag:false
+        }
+    },
+    {
+        key:"/songPlayDetail",
+        path:"/songPlayDetail",
+        name:"播放",
+        icon:"",
+        component:SongPlayDetail,
+        exact:true,
+        meta:{
+            requireAuth:false,
+            flag:false
+        }
+    }
+];
+
+export const baseConfigRoutes = layoutRoutes.concat(noLayoutRoutes);
+
